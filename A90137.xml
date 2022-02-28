@@ -1,0 +1,203 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short discourse to prove the usefulness of vomiting in fevers, by plain reasoning and the authority of the best physicians, ancient and modern. By Charles Oliphant, doctor of Medetine</title>
+            <author>Oliphant, Charles, d. 1719.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 28 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90137</idno>
+            <idno type="STC">Wing O271</idno>
+            <idno type="STC">ESTC R230750</idno>
+            <idno type="EEBO-CITATION">99899648</idno>
+            <idno type="PROQUEST">99899648</idno>
+            <idno type="VID">154320</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90137)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154320)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2410:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short discourse to prove the usefulness of vomiting in fevers, by plain reasoning and the authority of the best physicians, ancient and modern. By Charles Oliphant, doctor of Medetine</title>
+                  <author>Oliphant, Charles, d. 1719.</author>
+               </titleStmt>
+               <extent>[6], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Carruthers, and sold at hi [sic] shop in the Parliament Closs,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>M.DC.XC.IX [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fever --  Early works to 1800.</term>
+               <term>Vomiting --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154320:1"/>
+            <p>A Short Diſcourſe, To Prove the USEFULNESS OF Vomiting IN FEVERS, BY <hi>PLAIN REASONING</hi> And the Authority of the <hi>Beſt Phyſicians,</hi> ANCIENT and MODERN.</p>
+            <p>By <hi>CHARLES OLIPHANT,</hi> Doctor of <hi>Medecine.</hi>
+            </p>
+            <p>
+               <hi>EDINBURGH,</hi> Printed for <hi>Thomas, Carruthers,</hi> and Sold at hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Shop in the <hi>Parliament Cloſs.</hi> M.DC.XC.IX.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:154320:2"/>
+            <pb facs="tcp:154320:2"/>
+            <head>THE PREFACE.</head>
+            <p>IT is but too remarkable, That <hi>Phyſick</hi> as it hath advanced in Age, ſo it hath decayed in Re<g ref="char:EOLhyphen"/>putation. <hi>Phyſicians,</hi> who among the Lear<g ref="char:EOLhyphen"/>ned <hi>Grecians</hi> were held in the highest Eſteem, are now rather imployed out of Cuſtom and Faſhion, as neceſſary Implements of Death-bed Sickneſs and Fu<g ref="char:EOLhyphen"/>neral Charges, than for any great Performance ex<g ref="char:EOLhyphen"/>pected from them, either by the Patients themſelves, or their Relations. And the Truth is, at the rate a great many Practiſe, we cannot ſay the World it altogether in the wrong: An affected ſtarch't Gra<g ref="char:EOLhyphen"/>vity with a ſawcy Aſſurance, and a paraſitical Cunning to get into the Acquaintance and good Opi<g ref="char:EOLhyphen"/>nion of People, is almoſt all that does intitle ſome Men to their Employment. It is to ſuch moſtly we are obliged to, for the Diſcredit the Practice of Me<g ref="char:EOLhyphen"/>dicine is fallen under of late, who contenting them<g ref="char:EOLhyphen"/>ſelves with ſtudying the mean and crafty Politicks of the Trade, and having neglected every thing elſe to qualify them for it, do by their Puny Feats make a great many judge it to be more the fault of the Art than of the Practiſers. And indeed it is no wonder that the World is more impoſed upon by the Pretenders to this Science than to any other whatſoever, ſo far is is out of the ordinary Road of theſe, who do not make it their Study: When a Lawyer, appears at the Bar, or a Miniſter in the Pulpit, every Body that has but little more than common Senſe may be almoſt a Judge of either the one or the others Performance,
+<pb facs="tcp:154320:3"/>but the Generality of the World does not ſo much as pretend to underſtand the firſt Elements of Phyſick, and conſequently can be but a very ill Judge of the Sufficiency of thoſe who profeſs it. What Applauſes have we ſeen a Formal Pretender, when he has ſpruc'd himſelf up with a little forc'd Rhetorick draw from his liſtening Admirers, who commonly have not Line e<g ref="char:EOLhyphen"/>nough to Fathom him; that he is an Ingenious Man, is a Character they cannot in juſtice deny him, and make no question but he is as good at Curing a Di<g ref="char:EOLhyphen"/>ſeaſe, as he is at telling a Stale Jeſt, or an Antiqua<g ref="char:EOLhyphen"/>ted Story; but whenever they have occaſion to uſe this Talking Machine, and find how ill ſuited his Dwar<g ref="char:EOLhyphen"/>fiſh Performances are to his Gigantick Wit, then pre<g ref="char:EOLhyphen"/>ſently they throw Dirt on the whole Faculty, &amp; proclaim Phyſick to be nothing elſe but Conjectural ill grounded Notions wrapt up in difficult and hard Terms.</p>
+            <p>I am not ignorant how much <hi>Phyſicians</hi> have leſ<g ref="char:EOLhyphen"/>ſened their Esteem by the Indecent Scuffles amongſt themſelves, and that by Inveighing one againſt ano<g ref="char:EOLhyphen"/>ther, they rather fasten an Imputation on the whole Profeſſion, than there where they deſign it: however this has been moſtly the fault of thoſe who know, that it is much eaſier to eſtabliſh themſelves by Decrying what another Man does, than to acquit themſelves as they ought to do, when their own Skill is required. It was ſuch an Inhumane and Malicious Treatment I met with from one of my own Employment, that gave occaſion to this Diſcourſe, which otherwiſe may be of uſe to ſuch as may hazard their Lives by their Pre<g ref="char:EOLhyphen"/>poſſeſſion in the Affair diſcourſed of. The Story in ſhort is, That I was very lately called to a <hi>Gentle<g ref="char:EOLhyphen"/>man</hi> of <hi>Conſequence</hi> and <hi>Merit,</hi> who had been in
+<pb facs="tcp:154320:3" rendition="simple:additions"/>a Fever ſeveral days before; from the beginning it had been attended with ſuch <hi>Symptoms,</hi> as were e<g ref="char:EOLhyphen"/>vident Signs of <hi>Repletion,</hi> his <hi>Stomach</hi> being o<g ref="char:EOLhyphen"/>vercharged with <hi>Choler</hi> and other <hi>Humors,</hi> which of it's own accord it threw up frequently, with a great Bitterneſs in his Mouth, and other undoubted Evi<g ref="char:EOLhyphen"/>dences of Redounding <hi>Gall: Blooding</hi> and <hi>Cliſte<g ref="char:EOLhyphen"/>ring</hi> with <hi>Milk</hi> and <hi>Sugar</hi> had been the <hi>Achillean</hi> Cures his ordinary <hi>Phyſician</hi> had plyed him with be<g ref="char:EOLhyphen"/>fore I came; When firſt I ſaw him, I found him labouring under the greatest Oppreſſion imaginable, his <hi>Pulſe</hi> low and oppreſſed, his <hi>Breathing</hi> uneaſie, and his <hi>Spirits</hi> overwhelmed with the continuing Diſorder of his <hi>Stomach</hi> which he had from the be<g ref="char:EOLhyphen"/>ginning; in a word, he was in ſuch a Caſe, that I could not venture to give him that which I was ſure ought to have been done at firſt, and which as yet was the only thing could be done to purpoſe, until I had procured a Remiſſion by Injecting a Sharp <hi>Cliſter,</hi> which had the deſired Effect, ſo that next day I orde<g ref="char:EOLhyphen"/>red a Vomit of an Ounce of <hi>Emetick Wine,</hi> and three <hi>Drachms</hi> of the <hi>Syrup</hi> of <hi>Buck-thorn:</hi> This, by the by, was not only aggravated with the Frightful Name of an <hi>Antimonial Vomit,</hi> but alſo called a <hi>Triple Doſe,</hi> which I leave to be judged of by thoſe, who have the Courage to give more than a Single Drop or two of the <hi>Spirit</hi> of <hi>Harts-Horn</hi> at a time. The Evacuation of <hi>Gall</hi> that followed the taking of the Vomit, both upwards and downwards, was ſo Surprizing, that in all Probability imaginable, it muſt have been of Fatal Conſequence, if it had been left to the Courſe of the Fever, to have been carried off by a <hi>Criſe,</hi> After that the Fever went on, but
+<pb facs="tcp:154320:4" rendition="simple:additions"/>without any thing near that Oppreſſion I at firſt found him under, ſo that both that <hi>Gentleman,</hi> whom I alled to my Aſſiſtance, and whoſe Judgment and Knowledge are equal to his Years and Experience, and my ſelf gave good Hopes of his Recovery; but his <hi>Phy<g ref="char:EOLhyphen"/>ſician,</hi> who, it ſeems, is equally good at the Cure and the Prognoſtick, not only told, that he was gone paſt Recovery, but that I had Killed him, and that the giving of Vomits in Fevers, was an Innovation in the Practice of <hi>Medicine,</hi> never before heard of. So for my own Vindication I have ſhown, that both by plain Reaſon, and the General Rules and Maxims of <hi>Phyſick,</hi> that Vomiting is not only to be done in moſt of our Fevers, but alſo, that if is ſo far from being a Novelty to any, to whom the whole Art is not ſuch, that we have it Confirmed by the Authority of the beſt <hi>Phyſicians,</hi> both <hi>Ancient</hi> and <hi>Modern.</hi> But no<g ref="char:EOLhyphen"/>thing can be Surprizing from the Impudent Ignorance of that <hi>Spark</hi> after his Elaborat Work, I mean <hi>Apol<g ref="char:EOLhyphen"/>lo</hi> the <hi>Mathematician,</hi> as one merrily called it, wher<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he attacks as ignorantly as dully the Uſeful, Ingenious, and Demonſtrative Diſcoveries of a moſt Learned Phyſician, who had given him no occaſion for it, that I know, and where he overturns whole Mathe<g ref="char:EOLhyphen"/>matical Demonſtrations by ſuch Witty Turns, as cal<g ref="char:EOLhyphen"/>ling an <hi>Effatum</hi> an <hi>Effartum, &amp;c.</hi> I ſhall ſay no more, but only tell him, that if he find his <hi>Choler</hi> moved, </p>
+            <lg>
+               <l>
+                  <hi>Et ſi</hi>
+               </l>
+               <l>
+                  <hi>—Turgeſcit vitrea bilis.</hi>
+               </l>
+            </lg>
+            <p>he'd even beſt take one of his own Topping Preſcripti<g ref="char:EOLhyphen"/>ons, an eaſie Parable Medicine made up of Domeſtick and Safe Ingredients, no Edge-Tools, an Injection of <hi>Milk</hi> and <hi>Sugar</hi> to bring it downwards.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:154320:4"/>
+            <head>A Short Diſcourſe, <hi>&amp;c.</hi>
+            </head>
+            <p>IT is beyond my Deſign to Diſcourſe of the ſeveral Cauſes and Natures of <hi>Fevers,</hi> or of their ſeveral Names and Diviſions. I confine my ſelf only to ſpeak of thoſe Continued <hi>Fevers,</hi> which moſt uſualy reign amongſt us, and of the Uſe, or rather Ne<g ref="char:EOLhyphen"/>ceſſity of giving <hi>Vomits</hi> in ſuch: And I think I need ſcarcely be put to prove a Matter of Fact ſo well known, to witt, That moſt of our <hi>Fevers,</hi> from the very firſt Invaſion of them, are attended with a Squeamiſhneſs, Vo<g ref="char:EOLhyphen"/>miting of Gall, bitterneſs of the Mouth, and ſuch other evident ſigns of overflowing Cho<g ref="char:EOLhyphen"/>ler in the Cavity of the Stomach and Inteſti<g ref="char:EOLhyphen"/>nes. I am not now to enquire what are the Antecedent Cauſes of producing this quanti<g ref="char:EOLhyphen"/>ty of Bile in the Body, neither ſhall I Diſpute, whether it be Generated immediatly in the Stomach by a depraved Digeſtion, or whether it is ſeparated from the Blood by the Liver, and poured into the Stomach by the paſſage of the Gall, that is inſerted near the lower end of it; But I ſuppoſe it to be actually there now, where it cannot ſtay long, without undergoing a great Alteration by it's Stagnat<g ref="char:EOLhyphen"/>ing in the Stomach, and conſequently not
+<pb n="2" facs="tcp:154320:5"/>ſo fit to be mixed again with the Blood as it was before it was ſeparated from it. Now the Queſtion is, Whether we ſhall Aſſiſt or Stimulat Nature, to Diſlodge ſo dangerous a Gueſt, or ſhall we ſuffer it to mix with the Chyle in the Stomach and Guts, and be car<g ref="char:EOLhyphen"/>ried again to the Blood, from which it muſt be ſeparated again, otherwiſe the Patient Dies.</p>
+            <p>I think after ſtating the Queſtion, I need make no anſwer, only I would adviſe theſe Gen<g ref="char:EOLhyphen"/>tlemen who Practiſe with that Caution they pretend to, not to think ſo lightly of neglect<g ref="char:EOLhyphen"/>ing theſe neceſſary Evacuations in the begin<g ref="char:EOLhyphen"/>ning, the doing of which muſt at beſt pro<g ref="char:EOLhyphen"/>long the Diſeaſe; and with all, I would have them take ſome better notice whether Bleeding ought to precede them or not, This may be Diſcuſt by a very plain Calculation.</p>
+            <p>I ſuppoſe the Fever beginning, and the quan<g ref="char:EOLhyphen"/>tity of Gall and other Humors actually fluctu<g ref="char:EOLhyphen"/>ating in the Stomach; which cannot be car<g ref="char:EOLhyphen"/>ried off by any Medicine, but part of it will mix with the Blood. Now, Suppoſing the Hu<g ref="char:EOLhyphen"/>mours in the Stomach to be to the whole Maſs of Blood, as one to Twenty; if you let a Twen<g ref="char:EOLhyphen"/>tieth part of the Blood, then it is but as one to Ninteen; that is, the proportion of the Blood is diminiſhed in reſpect of that Matter, which gives Fewel to the Fever, and conſequently not ſo able to Digeſt or throw it off by a Criſe. On the contrary, if we evacuat (for Example) one half of the Humours before they mix with
+<pb n="3" facs="tcp:154320:5"/>the Blood, they are but as one to Fourty; which muſt make a vaſt difference in the event of the Cure. This Calculation is ſo plain, that I ſhall not quot the Fifth Book of <hi>Euclide</hi> to prove it, and by it I would have theſe wary Gentlemen take notice, that ſeeing they do little more than look on and ſee fair Play between the Patient and the Diſeaſe, that at leaſt they would not caſt the Ballance on the laſt's Part, and leave the Patient to manage his Strength the beſt way he can, againſt both Diſeaſe and Phyſician. I do not pretend by this, but there may be ſome Caſes that Require Bleeding before any thing elſe; but to do it of Courſe without any urgent Indication, at the Rate as is commonly practiſ<g ref="char:EOLhyphen"/>ed, muſt certainly be of fatal Conſequence to a great many.</p>
+            <p>But now the Fever is gone on for ſeveral dayes before a Phyſician be called. Well ſays <hi>Ma<g ref="char:EOLhyphen"/>ſter Dolittle,</hi> Here can be no place for evacu<g ref="char:EOLhyphen"/>ation, becauſe the Courſe of the Diſeaſe has waſted the Strength and Spirits, and the Pati<g ref="char:EOLhyphen"/>ent ſhall never be able to endure it; &amp; further, it will put the Blood into a great Commotion, and Increaſe the Fever.</p>
+            <p>I do indeed Confeſs the Patient had run a great deal leſs hazard if theſe Evacuations had been made in the beginning; But yet as we are ſtill to make beſt of an ill Bargain; and if the Patient be not reduced to extream weakneſs, I ſay it is yet to be done. As for waſting the Strength and Spirits, it is evident, that theſe Humours mixing with the Blood, to be at laſt
+<pb n="4" facs="tcp:154320:6"/>ſubdued by a tedious Criſe, muſt infallibly at the long run, exhauſt and weaken them a great deal more than the ſhort Operation of a Vomit; which doth but lend a hand to Nature; and I appeal to any man who ever took an ordinary Vomit, if he has not found himſelf more weakened, and his Strength more exhauſted by a few Hours of toſſing and anxiety from a diſordered Stomach, than from the effect of the Vomitive Potion. As for the other Objection of increaſing the Fever, every body knows, that hath the leaſt ſtudied the Operation of Medicaments, that a Vomit works only in <hi>primis viis,</hi> the ſuddenneſs of its effect too, ſhows that it has no time to mix with the Blood, to put it into any great Commotion. That the heaving of the Breaſt, and the Ex<g ref="char:EOLhyphen"/>traordinary motion of the Muſcles of the low<g ref="char:EOLhyphen"/>er Belly, and <hi>Diaphragm</hi> will quicken the Pulſe, and make the Blood move faſter during its working, is without all Queſtion, but even that will Contribute more to the Cominution and digeſtion of the Feveriſh Matter in the Blood, than do any harm to the Patient, ſee<g ref="char:EOLhyphen"/>ing that ceaſeth ſo ſoon as the Vomit hath done Operating.</p>
+            <p>To call this an innovation in the practice of Medicine, is to ſpeak againſt the current of the Phyſicians or all Ages, as well as a<g ref="char:EOLhyphen"/>gainſt the General Maxims of Phyſick. It is true the Ancients knew no other Vomits, but what were of the Vegetable kind; and theſe were either too weak, ſuch as <hi>the Decoction of
+<pb n="5" facs="tcp:154320:6"/>Hyſop, Oyle and Water, common Oxymel, &amp;c.</hi> and conſequently had either little or no ef<g ref="char:EOLhyphen"/>fect, or theſe which had a deleterious and poi<g ref="char:EOLhyphen"/>ſoning Quality, and therefore over violent and unſafe, which makes them ſpeak moſtly of Purgatives. But even theſe they uſed, not<g ref="char:EOLhyphen"/>withstanding of the vaſt Commotion they make in the whole Juices of the Body, be<g ref="char:EOLhyphen"/>yond Vomitive and Laxative Medicins, ſuch was the force of the Indication. It were end<g ref="char:EOLhyphen"/>leſs to give all the Quotations which can be adduced to prove this, and would far exceed the bounds I laid down to my ſelf.</p>
+            <p>I ſhall begin with <hi>Hippocrates,</hi> who <hi>Aph</hi> 21. <hi>Sect.</hi> 1. ſays, <hi>Such Humours as are to be carryed off, let it be done that way that Nature affects moſt; if it be a convenient way.</hi> Now, I judge no Phyſician ever pretended that Redundant Choler in the Stomach ſhould not be carried off, neither that the way of Vomiting is not <hi>lege natura commoda;</hi> ſo <hi>Heurnius</hi> tranſlates it. In the 10 <hi>Aph. Sect.</hi> 4. he ſays, <hi>In very acute diſeaſes Purging is to be uſed if the Humour be turgid, for it is dangerous to delay.</hi> Now, what way we are to evacuat the firſt cited Aphoriſm ſhows, and this ſhows we are to do it even in the moſt acute Diſeaſes.</p>
+            <p>
+               <hi>Celſus, Cap.</hi> 13. <hi>de Vomitu,</hi> ſays, <hi>Vomiting as in perfect Health it is often neceſſary for ſuch as are Cholerick, ſo it is alſo in thoſe Diſeaſes which are oc<g ref="char:EOLhyphen"/>caſioned by Choler,</hi> only he adds, <hi>That in Fevers and Acute Diſeaſes, we need not uſe the harſher Me<g ref="char:EOLhyphen"/>dicaments, ſuch as White</hi> Hellebor, which was
+<pb n="6" facs="tcp:154320:7"/>the only effectual Vomitive he knew, &amp; which they were almoſt always in a dread to give, and by it's Violence now quite out of Uſe. It is not poſſible to Quote the Innumerable Paſſa<g ref="char:EOLhyphen"/>ges from <hi>Galen,</hi> and the other <hi>Principes Medici</hi> to prove my Aſſertion, beſides, that what they write concerning Fevers, cannot ſo exactly jump with the Caſe in hand, it being certain, that mod of their Fevers were either of the <hi>In<g ref="char:EOLhyphen"/>flammatory</hi> or the <hi>Peſtilential</hi> kinds, and that the Difference of the Clymats, and of our Way of Living from theirs, muſt of neceſſity alter the Type of the Diſeaſes very much. So I ſhall not longer inſiſt on their Authority, but now come to the Moderns, of whom I ſhall only take the moſt Famous, and whoſe Practice has moſt obtained.</p>
+            <p>I ſhall begin with the great <hi>Fernelius, Cap.</hi> XI. <hi>de Curat. Febr. When</hi> (ſays he) <hi>there hap<g ref="char:EOLhyphen"/>pens an Evacuation of Bile of it's own accord, the Fever may end without any Medicine, but when that is either none at all, or too little Medicaments are to be given, leſt the Fever, by being neglected, change it's Species, and become worſe, and of longer Conti<g ref="char:EOLhyphen"/>nuance.</hi> And a little afterwards he adds, <hi>for ſeeing the Stomach and Inteſtines,</hi> (which is what he means by the <hi>Prima Corporis Regio</hi>) <hi>in which the Noxious Humor fluctuats, are moſt unclean, ſome of it is to be timeouſly evacuated in the beginning, e<g ref="char:EOLhyphen"/>ſpecially if there be Bitterneſs in the Mouth, Oppreſſi<g ref="char:EOLhyphen"/>on of the Heart, or Squeamiſhneſs, or want of Ap<g ref="char:EOLhyphen"/>petit,</hi> &amp;c. And, <hi>Cap.</hi> V. Which treats of theſe things which are to be obſerved in the Metho<g ref="char:EOLhyphen"/>dical
+<pb n="7" facs="tcp:154320:7"/>Cure of Fevers, he ſays, <hi>Not only therefore in very Acute Diſeaſes, whoſe Matter is Turgid</hi> (<hi>af<g ref="char:EOLhyphen"/>ter</hi> Hippocrates<hi>'s Way, to whom only Violent Me<g ref="char:EOLhyphen"/>dicines were known) but alſo in all Acute Diſeaſes, Purging is proper in the beginning.</hi> And a little after, <hi>If in the firſt days of the Fever the Evacuati<g ref="char:EOLhyphen"/>on be omitted, whatever time you are ſent for, you ſhall order Remedies as if the Diſeaſe were beginning.</hi> When there is an Inclination to Vomit, what he gives is <hi>Oxymel</hi> or <hi>Hydreleum,</hi> the Uſe of An<g ref="char:EOLhyphen"/>timonial Vomits not being known in his time, or if they were, being firſt introduced by raſh ignorant Quacks, they were cryed down by the Dogmatical Phyſicians for a while, until their ſafe and eaſie Operation brought them in, in ſpite of Humor and Prepoſſeſſion.</p>
+            <p>
+               <hi>Platerus</hi> who lived about fifty years after him, and whom <hi>Sylvius,</hi> who was hot over prodigal pf good Names to any Man, calls <hi>Magnus Platerus,</hi> ſays in bis Treatiſe <hi>de Febribus,</hi> Pag. m. 77. <q>Vomiting to theſe who are ac<g ref="char:EOLhyphen"/>cuſtomed, and Nature puſhing on to it, is allowed, and if in a continued Fever, the Gall doth work up in the Stomach, and be troubleſome, it will extremely help.</q> And afterward, <hi>Pag.</hi> 87. <q>If there be crude Humors in the Stomach, and the Gall be carried in<g ref="char:EOLhyphen"/>to it, Nature is to be helped to throw out that by Vomiting which does moleſt it.</q> I ſhall Quote no move of the Moderns of that Age, theſe two being look't on by all to be the moſt Learned, awl beſt Practitioners a<g ref="char:EOLhyphen"/>mongſt them.</p>
+            <pb n="8" facs="tcp:154320:8"/>
+            <p>I come now to the later Phyſicians, and ſhall omit the Crowd of <hi>German</hi> Authors, whom I take to be all on my ſide, <hi>Ludovicus</hi> in that ex<g ref="char:EOLhyphen"/>cellent Book he calls <hi>Pharmacia Moderno Seculo Applicanda.</hi> I remember ſomewhere ſays, <q>That he's ſure, wherever one was killed by giving a Vomit or Opium, a hundred have died for want of them.</q> 
+               <hi>Etmullerus de Febr.</hi> aſſerts, <q>That Vomiting is proper in all Fevers, even in theſe which are Malignant.</q> And withal tells us, <q>He had often obſerved, that to whomſoever he gave a Vomit in the begin<g ref="char:EOLhyphen"/>ning of Malignant Fevers, that whether the Event was good or bad, through the whole Courſe of the Diſeaſe they lay quiet and ea<g ref="char:EOLhyphen"/>ſy.</q> He does alſo prefer the Antimonial Vo<g ref="char:EOLhyphen"/>mits to all other, becauſe of it's Sulphur which reſiſts Malignity. It were tedious to give you many more Quotations, ſo I ſhall end with the Teſtimonies of the three greateſt Phyſici<g ref="char:EOLhyphen"/>ans of this Age, that is <hi>Willis, Sylvius,</hi> and <hi>Sy<g ref="char:EOLhyphen"/>denham.</hi>
+            </p>
+            <p>
+               <hi>Willis</hi> in his Treatiſe of Fevers not only ap<g ref="char:EOLhyphen"/>proves of Vomiting in continued Fevers, but ſhows by ſome Obſervations that it was his common Practice, For Example, the firſt he gives is, <q>Of a Noble Matron of Fifty years of Age, of a ſlender habit of Body, a low Sta<g ref="char:EOLhyphen"/>ture, who by ſhifting her Cloaths in the Month of <hi>June,</hi> was ill towards Night, after that ſhe was taken with a Squeamiſhneſs and oppreſſion of her Stomach, felt flying pains without any exceſſive heat. The Second
+<pb n="9" facs="tcp:154320:8"/>and Third day ſhe was much the ſame, on the Fourth day after ſhe had taken a Vomit, which was an Ounce of Emetick Wine, ſhe Four times vomited up yellow Gall, and Purged thrice:</q> And ſo he gives an account of the Progreſs of the Fever afterwards, too tedious to inſert: However, ſhe Recovered. He has ſeveral others to the ſame purpoſe, which may be ſeen in his Works.</p>
+            <p>
+               <hi>Sylvius Prax. Med. lib.</hi> 1. <hi>Cap.</hi> XXXL after, he tells that the Primary Cauſe of theſe con<g ref="char:EOLhyphen"/>tinued Fevers is the Bile which is faulty either by its Acrimony, or inflammability, Sums up the Method of curing them all in the laſt Pa<g ref="char:EOLhyphen"/>ragraph of the Chapter, thus. <q>Blooding in<g ref="char:EOLhyphen"/>deed is then chiefly conducible, when there is an extraordinary heat, the provok<g ref="char:EOLhyphen"/>ing of Sweat, when there are Signs of a troubleſom acidity, and laſtly purging by Stool and Vomiting when the Gall works up and is too Plentiful.</q> Now, what ſort of Vomit he is for, may be ſeen the next Chap<g ref="char:EOLhyphen"/>ter but one, in which he treats of Malignant Fevers, where he ſays, <q>that in thoſe when Vomiting is neceſſary, he prefers <hi>Antimonial</hi> Vomits to all others, becauſe of their Admir<g ref="char:EOLhyphen"/>able Sulphur, which doth wonderfully mi<g ref="char:EOLhyphen"/>tigate every thing that is Acrimonious.</q> But he tells Poſitively, <hi>Cap</hi> XXIII. <q>I prefer, <hi>ſayes he,</hi> Antimonial Vomits to all other, both becauſe they promiſcuouſly evacuat all Hu<g ref="char:EOLhyphen"/>mours, and alſo becauſe they are moſt Friendly to Human Nature; reducing by a
+<pb n="10" facs="tcp:154320:9"/>peculiar way, all the juices in the Body to a Laudable State; which Power I Queſtion, is to be found in other things, but I know it to be in Antimony, whatever either Learned or Ignorant Men may Prate to the Contrary.</q>
+            </p>
+            <p>I ſhall Conclude with the Opinion of the Judicious and Ingenuous Dr. <hi>Sydenham,</hi> who in the Fourth Chapter of his Works, treating of ſuch continued Fevers, as are every whit the ſame we commonly have amongſt us, ſays,</p>
+            <q>
+               <p>After Blooding (if it ſhould be found neceſſary after the fore mentioned Cautions) I carefully enquire whether Vomiting or a<g ref="char:EOLhyphen"/>ny Inclination to it, did trouble the Pati<g ref="char:EOLhyphen"/>ent towards the beginning of the Fever. If that happened, I certainly order a Vomitive Medicine, except either tender Age, or ſome extraordinary weakneſs of the Patient do perſwade me to abſtain from it. And indeed the giving a Vomit where ſuch an Inclina<g ref="char:EOLhyphen"/>tion to Vomiting has preceeded, is ſo neceſ<g ref="char:EOLhyphen"/>ſary, that unleſs that Humour be expelled, it will turn to a Sink of Evils, which ſhall torture the Phyſician during the whole Courſe of his Medicating, and throw the Patient into no ſmall danger. The moſt uſual and Chief is a Diarrhea or Flux, which for the moſt part follows in the Declination of the Fever as often as Vomiting, when there was an Indication for it, was neglect<g ref="char:EOLhyphen"/>ed, <hi>&amp;c.</hi> Now, <hi>ſayes he,</hi> The Danger of that Diarrhea lies here, that when the Pati<g ref="char:EOLhyphen"/>ent
+<pb n="11" facs="tcp:154320:9"/>is ſufficiently weakned by his Diſeaſe, he is by it further Enervated, and beſides, (which is yet of greater Moment) in the Declining of the Fever, at which time the Blood ought to Contract it ſelf, and Exert it's Power to throw off by Deſpumation the Morbifick Matter, is now entirely hindred by that Evacuation.</p>
+               <p>Now leſt you ſhould doubt that this Hu<g ref="char:EOLhyphen"/>mor that Neſtles in the Stomach, except it be carried off by Vomiting, will ſometime thereafter make this Tragedy; if you'll en<g ref="char:EOLhyphen"/>quire, you ſhall almoſt always find, that if a Flux do accompany the Fever, that the Patient had in the beginning of the Diſeaſe been Squeamiſh, and that no Vomit had been given him. And further you ſhall find, that altho' that Inclination to Vomiting be over, yet nevertheleſs the Diarrhea ſhall ceaſe ſo ſoon as you give the Vomit, provided the Strength of the Patient be able to endure it: I have alſo frequently obſerved, that when the Diarrhea once began, that adſtrin<g ref="char:EOLhyphen"/>gent Medicines, either taken inwardly, or outwardly applyed, did little or nothing contribute to the ſtopping of it.</p>
+            </q>
+            <p>Then he tells the common Vomitive Potion he to uſes in ſuch Caſes, which is ſix Drachms of Emetick Wine, with Oxymel of Squills and Syrup of Scabions. Afterwards he goes on.</p>
+            <q>
+               <p>If any Man ask me, What time of the Fe<g ref="char:EOLhyphen"/>ver I would have a Vomit givens.</p>
+            </q>
+            <p>I Anſwer.</p>
+            <pb n="12" facs="tcp:154320:10"/>
+            <q>If I could have my Wiſh, I would do it in the very beginning: for by that I ſhall pre<g ref="char:EOLhyphen"/>ſerve my Patient from theſe dreadful Symp<g ref="char:EOLhyphen"/>toms, which are occaſioned by that Heap of Humors in the Stomach, and Neighbour<g ref="char:EOLhyphen"/>ing Places; and even perhaps cruſh the Di<g ref="char:EOLhyphen"/>ſeaſe in the Bud, which otherwiſe would grow to the danger of the Patient, being nou<g ref="char:EOLhyphen"/>riſhed by theſe Humors, <hi>&amp;c.</hi>
+            </q>
+            <p>
+               <q>But, <hi>(ſays he, the next Paragraph)</hi> If, as it often happens, by our being too late ſent for, we cannot Conſult the Safety of our Patients towards the beginning of the Fe<g ref="char:EOLhyphen"/>ver; Nevertheleſs I am certainly of Opini<g ref="char:EOLhyphen"/>on, that it ought to be done whatever time of the Diſeaſe it be, provided the Strength be not ſo far waſted, that it cannot endure the Force of a Vomit. And indeed for my own part, I have made no Scruple to give a Vomit on the twelfth day of the Fever, even when the Patient had left off to be Squeamiſh, and not without Succeſs: <hi>And afterwards,</hi> Neither would I in the leaſt doubt to do it later, except the Conſideration of the exhauſted Strength of the Patient ſhould ſtop me.</q>
+            </p>
+            <p>Theſe Quotations which I have Tranſlated, do faithfully ſpeak the Senſe and meaning of the Authors I took them from; and I think they are ſo deciſive, that there is not any need for more: I ſhall only add, that as Vomiting in Fevers has been the way of the beſt Phyſi<g ref="char:EOLhyphen"/>cians
+<pb n="13" facs="tcp:154320:10"/>of all Ages; ſo it is at this time all <hi>Eu<g ref="char:EOLhyphen"/>rope</hi> over, the Practice of ſuch who underſtand any thing of their Buſineſs, and is daily Con<g ref="char:EOLhyphen"/>firmed (not to mention the good event of that Gentleman's Fever, which gave occaſion to this Diſcourſe) by the recovery of theſe who are ſo treated.</p>
+            <p>Neither ſhall the Reader take this on my bare aſſertion for that it is at this time the pra<g ref="char:EOLhyphen"/>ctice of the <hi>French</hi> Phyſicians, who had uſ<g ref="char:EOLhyphen"/>ed to be the greateſt oppoſer of Antimonial Medicines, they ſhall have the word of a ve<g ref="char:EOLhyphen"/>ry Honeſt man for it; I mean <hi>Dector Tournefort.</hi> whoſe admirable Genie and Learning, pro<g ref="char:EOLhyphen"/>cured him the Profeſſion of <hi>Botany</hi> in the King's Garden at <hi>Paris,</hi> and made him worthy to be a Member of that Illuſtrious Society, <hi>The Royal Academy of Sciences.</hi> He in a late Book intituled, <hi>Hiſtoire des plantes qui naiſſent aux en<g ref="char:EOLhyphen"/>virons de Paris.</hi> In the Preface, ſpeaking of the great uſe of Vomits, and of their way of Operating, adds, That France <hi>is Obliged to the Diligence of it's Skilful Phyſicians, for it's being free from the? Plague in theſe latter Times, which muſt have Diſpeopled that Kingdom, if they had kept to their Blooding, Ptiſans, and Diaphoreticks, even with much ado,</hi> ſayes he, <hi>it yielded to</hi> Anti<g ref="char:EOLhyphen"/>mony, Helebor, Elaterium <hi>and</hi> Coloquint.</p>
+            <p>I ſhall end with this, that I am ſorry a great many People ſhould have ſo raſhly paſt their Judgement, in an Affair, which it ſeems, they underſtood ſo little, eſpecially when they had
+<pb n="14" facs="tcp:154320:11" rendition="simple:additions"/>better ground for it than the falſe inſinua<g ref="char:EOLhyphen"/>tions and Malicious whiſperings of one who, is very far from being a Judge in theſe Matters himſelf, or the open talking of ſome men who are ſo mean as to think it worth the while to be his Emiſſaries.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
